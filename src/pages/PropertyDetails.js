@@ -68,7 +68,7 @@ const PropertyDetails = () => {
                 </Link>
               </div>
             </div>
-            {/* form */}
+            {/* # form */}  
             <form className="flex flex-col gap-y-4">
               <input
                 className="border border-gray-300 focus:border-violet-700 outline-none rounded w-full px-4 h-14 text-sm"
